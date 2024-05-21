@@ -1,1 +1,1 @@
-It is clone of Airbnb.
+It is a clone of Airbnb.
